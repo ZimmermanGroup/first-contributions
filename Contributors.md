@@ -1,5 +1,5 @@
 # Contributors
-
+- [Soumi Tribedi](https://github.com/soumitribedi)
 - [Feng-chengyi](https://github.com/Feng-chengyi)
 - [Binaryguardia](https://github.com/binaryguardia)
 - [Richard Nixon](https://github.com/richardnixondev)

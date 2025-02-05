@@ -167,6 +167,7 @@
 - [Adriana Paiva](https://github.com/itsadrianapaiva)
 - [Thejesh Kumar](https://github.com/unedsky)
 - [Sayanjit Mukherjee](https://github.com/Thedrogon)
+- [Josh](https://github.com/joshkamm)
 - [khsu](https://github.com/Kevin858)
 - [kuklinv](https://github.com/kuklinv)
 - [Hussain Zaidi](https://github.com/hussaynzaidi)
